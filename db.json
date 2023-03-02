@@ -4,7 +4,7 @@
       "desc": "Apple",
       "img_url": "/assets/apple.png",
       "audio_url": "/assets/media/a.mp3",
-      "audio_desc_url": "assets/media/a_desc.mp3",
+      "audio_desc_url": "/assets/media/a_desc.mp3",
       "colour": "tomato"
     },
     {
