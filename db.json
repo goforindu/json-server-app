@@ -207,4 +207,1226 @@
       "audio_desc_url": "/assets/media/z_desc.mp3",
       "colour": "tomato "
     }
-  ]}
+  ],
+"numbers":[
+    {
+      "name": "1",
+      "desc": "ONE",
+      "img_url": "/assets/numbers/one.png",
+      "audio_url": "/assets/numbers/audio/1.mp3",
+      "audio_desc_url": "/assets/numbers/audio/1.mp3",
+      "colour": "tomato"
+    },
+    {
+        "name": "2",
+        "desc": "TWO",
+        "img_url": "/assets/numbers/two.png",
+        "audio_url": "/assets/numbers/audio/2.mp3",
+        "audio_desc_url": "/assets/numbers/audio/2.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "3",
+        "desc": "THREE",
+        "img_url": "/assets/numbers/three.png",
+        "audio_url": "/assets/numbers/audio/3.mp3",
+        "audio_desc_url": "/assets/numbers/audio/3.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "4",
+        "desc": "FOUR",
+        "img_url": "/assets/numbers/four.png",
+        "audio_url": "/assets/numbers/audio/4.mp3",
+        "audio_desc_url": "/assets/numbers/audio/4.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "5",
+        "desc": "FIVE",
+        "img_url": "/assets/numbers/five.png",
+        "audio_url": "/assets/numbers/audio/5.mp3",
+        "audio_desc_url": "/assets/numbers/audio/5.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "6",
+        "desc": "SIX",
+        "img_url": "/assets/numbers/six.png",
+        "audio_url": "/assets/numbers/audio/6.mp3",
+        "audio_desc_url": "/assets/numbers/audio/6.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "7",
+        "desc": "SEVEN",
+        "img_url": "/assets/numbers/seven.png",
+        "audio_url": "/assets/numbers/audio/7.mp3",
+        "audio_desc_url": "/assets/numbers/audio/7.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "8",
+        "desc": "EIGHT",
+        "img_url": "/assets/numbers/eight.png",
+        "audio_url": "/assets/numbers/audio/8.mp3",
+        "audio_desc_url": "/assets/numbers/audio/8.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "9",
+        "desc": "NINE",
+        "img_url": "/assets/numbers/nine.png",
+        "audio_url": "/assets/numbers/audio/9.mp3",
+        "audio_desc_url": "/assets/numbers/audio/9.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "10",
+        "desc": "TEN",
+        "img_url": "/assets/numbers/ten.png",
+        "audio_url": "/assets/numbers/audio/10.mp3",
+        "audio_desc_url": "/assets/numbers/audio/10.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "11",
+        "desc": "ELEVEN",
+        "img_url": "/assets/numbers/eleven.png",
+        "audio_url": "/assets/numbers/audio/11.mp3",
+        "audio_desc_url": "/assets/numbers/audio/11.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "12",
+        "desc": "TWELVE",
+        "img_url": "/assets/numbers/twelve.png",
+        "audio_url": "/assets/numbers/audio/12.mp3",
+        "audio_desc_url": "/assets/numbers/audio/12.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "13",
+        "desc": "THIRTEEN",
+        "img_url": "/assets/numbers/thirteen.png",
+        "audio_url": "/assets/numbers/audio/13.mp3",
+        "audio_desc_url": "/assets/numbers/audio/13.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "14",
+        "desc": "FOURTEEN",
+        "img_url": "/assets/numbers/fourteen.png",
+        "audio_url": "/assets/numbers/audio/14.mp3",
+        "audio_desc_url": "/assets/numbers/audio/14.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "15",
+        "desc": "FIFTEEN",
+        "img_url": "/assets/numbers/fifteen.png",
+        "audio_url": "/assets/numbers/audio/15.mp3",
+        "audio_desc_url": "/assets/numbers/audio/15.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "16",
+        "desc": "SIXTEEN",
+        "img_url": "/assets/numbers/sixteen.png",
+        "audio_url": "/assets/numbers/audio/16.mp3",
+        "audio_desc_url": "/assets/numbers/audio/16.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "17",
+        "desc": "SEVENTEEN",
+        "img_url": "/assets/numbers/seventeen.png",
+        "audio_url": "/assets/numbers/audio/17.mp3",
+        "audio_desc_url": "/assets/numbers/audio/17.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "18",
+        "desc": "EIGHTEEN",
+        "img_url": "/assets/numbers/eighteen.png",
+        "audio_url": "/assets/numbers/audio/18.mp3",
+        "audio_desc_url": "/assets/numbers/audio/18.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "19",
+        "desc": "NINETEEN",
+        "img_url": "/assets/numbers/nineteen.png",
+        "audio_url": "/assets/numbers/audio/19.mp3",
+        "audio_desc_url": "/assets/numbers/audio/19.mp3",
+        "colour": "tomato"
+      },
+      {
+        "name": "20",
+        "desc": "TWENTY",
+        "img_url": "/assets/numbers/twenty.png",
+        "audio_url": "/assets/numbers/audio/20.mp3",
+        "audio_desc_url": "/assets/numbers/audio/20.mp3",
+        "colour": "tomato"
+      }
+
+],
+"fruits":[
+  {
+    "name": "Apple",
+    "desc": "",
+    "img_url": "/assets/apple.png",
+    "audio_url": "/assets/fruit/audio/apple.mp3",
+    "audio_desc_url": "/assets/fruit/audio/apple.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Orange",
+    "desc": "",
+    "img_url": "/assets/orange.png",
+    "audio_url": "/assets/fruit/audio/orange.mp3",
+    "audio_desc_url": "/assets/fruit/audio/orange.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Watermelon",
+    "desc": "",
+    "img_url": "/assets/fruit/watermelon.png",
+    "audio_url": "/assets/fruit/audio/watermelon.mp3",
+    "audio_desc_url": "/assets/fruit/audio/watermelon.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Coconut",
+    "desc": "",
+    "img_url": "/assets/fruit/coconut.png",
+    "audio_url": "/assets/fruit/audio/coconut.mp3",
+    "audio_desc_url": "/assets/fruit/audio/coconut.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Banana",
+    "desc": "",
+    "img_url": "/assets/fruit/banana.png",
+    "audio_url": "/assets/fruit/audio/banana.mp3",
+    "audio_desc_url": "/assets/fruit/audio/banana.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Pineapple",
+    "desc": "",
+    "img_url": "/assets/fruit/pineapple.png",
+    "audio_url": "/assets/fruit/audio/pineapple.mp3",
+    "audio_desc_url": "/assets/fruit/audio/pineapple.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Peach",
+    "desc": "",
+    "img_url": "/assets/fruit/peach.png",
+    "audio_url": "/assets/fruit/audio/peach.mp3",
+    "audio_desc_url": "/assets/fruit/audio/peach.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Mango",
+    "desc": "",
+    "img_url": "/assets/mango.png",
+    "audio_url": "/assets/fruit/audio/mango.mp3",
+    "audio_desc_url": "/assets/fruit/audio/mango.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Muskmelon",
+    "desc": "",
+    "img_url": "/assets/fruit/muskmelon.png",
+    "audio_url": "/assets/fruit/audio/muskmelon.mp3",
+    "audio_desc_url": "/assets/fruit/audio/muskmelon.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Blueberry",
+    "desc": "",
+    "img_url": "/assets/fruit/blueberry.png",
+    "audio_url": "/assets/fruit/audio/blueberry.mp3",
+    "audio_desc_url": "/assets/fruit/audio/blueberry.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Cherry",
+    "desc": "",
+    "img_url": "/assets/fruit/cherry.png",
+    "audio_url": "/assets/fruit/audio/cherry.mp3",
+    "audio_desc_url": "/assets/fruit/audio/cherry.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Pomegranate",
+    "desc": "",
+    "img_url": "/assets/fruit/pomegranate.png",
+    "audio_url": "/assets/fruit/audio/pomegranate.mp3",
+    "audio_desc_url": "/assets/fruit/audio/pomegranate.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Strawberry",
+    "desc": "",
+    "img_url": "/assets/colours/red.png",
+    "audio_url": "/assets/fruit/audio/strawberry.mp3",
+    "audio_desc_url": "/assets/fruit/audio/strawberry.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Pear",
+    "desc": "",
+    "img_url": "/assets/fruit/pear.png",
+    "audio_url": "/assets/fruit/audio/pear.mp3",
+    "audio_desc_url": "/assets/fruit/audio/pear.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Grapes",
+    "desc": "",
+    "img_url": "/assets/fruit/grapes.png",
+    "audio_url": "/assets/fruit/audio/grapes.mp3",
+    "audio_desc_url": "/assets/fruit/audio/grapes.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Papaya",
+    "desc": "",
+    "img_url": "/assets/fruit/papaya.png",
+    "audio_url": "/assets/fruit/audio/papaya.mp3",
+    "audio_desc_url": "/assets/fruit/audio/papaya.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Guava",
+    "desc": "",
+    "img_url": "/assets/fruit/guava.png",
+    "audio_url": "/assets/fruit/audio/guava.mp3",
+    "audio_desc_url": "/assets/fruit/audio/guava.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Plum",
+    "desc": "",
+    "img_url": "/assets/fruit/plum.png",
+    "audio_url": "/assets/fruit/audio/plum.mp3",
+    "audio_desc_url": "/assets/fruit/audio/plum.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Kiwi",
+    "desc": "",
+    "img_url": "/assets/fruit/kiwi.png",
+    "audio_url": "/assets/fruit/audio/kiwi.mp3",
+    "audio_desc_url": "/assets/fruit/audio/kiwi.mp3",
+    "colour": "tomato"
+  }
+],
+
+"shapes":[
+  {
+    "name": "Circle",
+    "desc": "",
+    "img_url": "/assets/shapes/circle.png",
+    "img_desc_url":"/assets/shapes/clock.png",
+    "audio_url": "/assets/shapes/audio/circle.mp3",
+    "audio_desc_url": "/assets/shapes/audio/circle.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Square",
+    "desc": "",
+    "img_url": "/assets/shapes/square.png",
+    "img_desc_url":"/assets/shapes/photoframe.png",
+    "audio_url": "/assets/shapes/audio/square.mp3",
+    "audio_desc_url": "/assets/shapes/audio/square.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Triangle",
+    "desc": "",
+    "img_url": "/assets/shapes/triangle.png",
+    "img_desc_url":"/assets/shapes/sandwitch.png",
+    "audio_url": "/assets/shapes/audio/triangle.mp3",
+    "audio_desc_url": "/assets/shapes/audio/triangle.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Heart",
+    "desc": "",
+    "img_url": "/assets/shapes/heart.png",
+    "img_desc_url":"/assets/shapes/hearts.png",
+    "audio_url": "/assets/shapes/audio/heart.mp3",
+    "audio_desc_url": "/assets/shapes/audio/heart.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Cone",
+    "desc": "",
+    "img_url": "/assets/shapes/cone.png",
+    "img_desc_url":"/assets/shapes/cap.png",
+    "audio_url": "/assets/shapes/audio/cone.mp3",
+    "audio_desc_url": "/assets/shapes/audio/cone.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Rectangle",
+    "desc": "",
+    "img_url": "/assets/shapes/rectangle.png",
+    "img_desc_url":"/assets/shapes/envelop.png",
+    "audio_url": "/assets/shapes/audio/rectangle.mp3",
+    "audio_desc_url": "/assets/shapes/audio/rectangle.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Star",
+    "desc": "",
+    "img_url": "/assets/shapes/star.png",
+    "img_desc_url":"/assets/shapes/stars.png",
+    "audio_url": "/assets/shapes/audio/star.mp3",
+    "audio_desc_url": "/assets/shapes/audio/star.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Oval",
+    "desc": "",
+    "img_url": "/assets/shapes/oval.png",
+    "img_desc_url":"/assets/shapes/egg.png",
+    "audio_url": "/assets/shapes/audio/oval.mp3",
+    "audio_desc_url": "/assets/shapes/audio/oval.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Diamond",
+    "desc": "",
+    "img_url": "/assets/shapes/diamond.png",
+    "img_desc_url":"/assets/shapes/stone.png",
+    "audio_url": "/assets/shapes/audio/diamond.mp3",
+    "audio_desc_url": "/assets/shapes/audio/diamond.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Crescent",
+    "desc": "",
+    "img_url": "/assets/shapes/crescent.png",
+    "img_desc_url":"/assets/shapes/moon.png",
+    "audio_url": "/assets/shapes/audio/crescent.mp3",
+    "audio_desc_url": "/assets/shapes/audio/crescent.mp3",
+    "colour": "tomato"
+  }
+],
+"transports":[
+  {
+    "name": "Bicycle",
+    "desc": "",
+    "img_url": "/assets/transports/bicycle.png",
+    "audio_url": "/assets/transports/audio/bicycle.mp3",
+    "audio_desc_url": "/assets/transports/audio/bicycle.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Car",
+    "desc": "",
+    "img_url": "/assets/transports/car.png",
+    "audio_url": "/assets/transports/audio/car.mp3",
+    "audio_desc_url": "/assets/transports/audio/car.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Motorcycle",
+    "desc": "",
+    "img_url": "/assets/transports/motorcycle.png",
+    "audio_url": "/assets/transports/audio/motorcycle.mp3",
+    "audio_desc_url": "/assets/transports/audio/motorcycle.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Scooter",
+    "desc": "",
+    "img_url": "/assets/transports/scooter.png",
+    "audio_url": "/assets/transports/audio/scooter.mp3",
+    "audio_desc_url": "/assets/transports/audio/scooter.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Van",
+    "desc": "",
+    "img_url": "/assets/transports/van.png",
+    "audio_url": "/assets/transports/audio/van.mp3",
+    "audio_desc_url": "/assets/transports/audio/van.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Ambulance",
+    "desc": "",
+    "img_url": "/assets/transports/ambulance.png",
+    "audio_url": "/assets/transports/audio/ambulance.mp3",
+    "audio_desc_url": "/assets/transports/audio/ambulance.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Fire Engine",
+    "desc": "",
+    "img_url": "/assets/transports/fire.png",
+    "audio_url": "/assets/transports/audio/fire.mp3",
+    "audio_desc_url": "/assets/transports/audio/fire.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Train",
+    "desc": "",
+    "img_url": "/assets/transports/train.png",
+    "audio_url": "/assets/transports/audio/train.mp3",
+    "audio_desc_url": "/assets/transports/audio/train.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Tractor",
+    "desc": "",
+    "img_url": "/assets/transports/tractor.png",
+    "audio_url": "/assets/transports/audio/tractor.mp3",
+    "audio_desc_url": "/assets/transports/audio/tractor.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Dump Truck",
+    "desc": "",
+    "img_url": "/assets/transports/dump.png",
+    "audio_url": "/assets/transports/audio/dump.mp3",
+    "audio_desc_url": "/assets/transports/audio/dump.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Truck",
+    "desc": "",
+    "img_url": "/assets/transports/truck.png",
+    "audio_url": "/assets/transports/audio/truck.mp3",
+    "audio_desc_url": "/assets/transports/audio/truck.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Bus",
+    "desc": "",
+    "img_url": "/assets/transports/bus.png",
+    "audio_url": "/assets/transports/audio/bus.mp3",
+    "audio_desc_url": "/assets/transports/audio/bus.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Airplane",
+    "desc": "",
+    "img_url": "/assets/transports/airplane.png",
+    "audio_url": "/assets/transports/audio/airplane.mp3",
+    "audio_desc_url": "/assets/transports/audio/airplane.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Blimp",
+    "desc": "",
+    "img_url": "/assets/transports/blimp.png",
+    "audio_url": "/assets/transports/audio/blimp.mp3",
+    "audio_desc_url": "/assets/transports/audio/blimp.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Helicopter",
+    "desc": "",
+    "img_url": "/assets/transports/helicopter.png",
+    "audio_url": "/assets/transports/audio/helicopter.mp3",
+    "audio_desc_url": "/assets/transports/audio/helicopter.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Hot air balloon",
+    "desc": "",
+    "img_url": "/assets/transports/hotballoon.png",
+    "audio_url": "/assets/transports/audio/hotballoon.mp3",
+    "audio_desc_url": "/assets/transports/audio/hotballoon.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Rocket",
+    "desc": "",
+    "img_url": "/assets/transports/rocket.png",
+    "audio_url": "/assets/transports/audio/rocket.mp3",
+    "audio_desc_url": "/assets/transports/audio/rocket.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Space Shuttle",
+    "desc": "",
+    "img_url": "/assets/transports/shuttle.png",
+    "audio_url": "/assets/transports/audio/shuttle.mp3",
+    "audio_desc_url": "/assets/transports/audio/shuttle.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Ship",
+    "desc": "",
+    "img_url": "/assets/transports/ship.png",
+    "audio_url": "/assets/transports/audio/ship.mp3",
+    "audio_desc_url": "/assets/transports/audio/ship.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Boat",
+    "desc": "",
+    "img_url": "/assets/transports/boat.png",
+    "audio_url": "/assets/transports/audio/boat.mp3",
+    "audio_desc_url": "/assets/transports/audio/boat.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Hovercraft",
+    "desc": "",
+    "img_url": "/assets/transports/hovercraft.png",
+    "audio_url": "/assets/transports/audio/hovercraft.mp3",
+    "audio_desc_url": "/assets/transports/audio/hovercraft.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Submarine",
+    "desc": "",
+    "img_url": "/assets/transports/submarine.png",
+    "audio_url": "/assets/transports/audio/submarine.mp3",
+    "audio_desc_url": "/assets/transports/audio/submarine.mp3",
+    "colour": "tomato"
+  }
+
+
+  
+  
+],
+"vegetables":[
+  {
+    "name": "Cauliflower",
+    "desc": "",
+    "img_url": "/assets/vegetables/cauliflower.png",
+    "audio_url": "/assets/vegetables/audio/cauliflower.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/cauliflower.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Cabbage",
+    "desc": "",
+    "img_url": "/assets/vegetables/cabbage.png",
+    "audio_url": "/assets/vegetables/audio/cabbage.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/cabbage.mp3",
+    "colour": "tomato"
+  }
+  ,
+  {
+    "name": "Green bell pepper",
+    "desc": "",
+    "img_url": "/assets/vegetables/bell.png",
+    "audio_url": "/assets/vegetables/audio/bell.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/bell.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Asparagus",
+    "desc": "",
+    "img_url": "/assets/vegetables/asparagus.png",
+    "audio_url": "/assets/vegetables/audio/asparagus.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/asparagus.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Carrot",
+    "desc": "",
+    "img_url": "/assets/vegetables/carrot.png",
+    "audio_url": "/assets/vegetables/audio/carrot.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/carrot.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Pumpkin",
+    "desc": "",
+    "img_url": "/assets/vegetables/pumpkin.png",
+    "audio_url": "/assets/vegetables/audio/pumpkin.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/pumpkin.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Zucchini",
+    "desc": "",
+    "img_url": "/assets/vegetables/zucchini.png",
+    "audio_url": "/assets/vegetables/audio/zucchini.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/zucchini.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "French Beans",
+    "desc": "",
+    "img_url": "/assets/vegetables/beans.png",
+    "audio_url": "/assets/vegetables/audio/beans.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/beans.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Okra",
+    "desc": "",
+    "img_url": "/assets/vegetables/okra.png",
+    "audio_url": "/assets/vegetables/audio/okra.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/okra.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Peas",
+    "desc": "",
+    "img_url": "/assets/vegetables/peas.png",
+    "audio_url": "/assets/vegetables/audio/peas.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/peas.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Spinach",
+    "desc": "",
+    "img_url": "/assets/vegetables/spinach.png",
+    "audio_url": "/assets/vegetables/audio/spinach.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/spinach.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Lettuce",
+    "desc": "",
+    "img_url": "/assets/vegetables/lettuce.png",
+    "audio_url": "/assets/vegetables/audio/lettuce.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/lettuce.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Corn",
+    "desc": "",
+    "img_url": "/assets/vegetables/corn.png",
+    "audio_url": "/assets/vegetables/audio/corn.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/corn.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Garlic",
+    "desc": "",
+    "img_url": "/assets/vegetables/garlic.png",
+    "audio_url": "/assets/vegetables/audio/garlic.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/garlic.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Onion",
+    "desc": "",
+    "img_url": "/assets/vegetables/onion.png",
+    "audio_url": "/assets/vegetables/audio/onion.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/onion.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Turnip",
+    "desc": "",
+    "img_url": "/assets/vegetables/turnip.png",
+    "audio_url": "/assets/vegetables/audio/turnip.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/turnip.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Potato",
+    "desc": "",
+    "img_url": "/assets/vegetables/potato.png",
+    "audio_url": "/assets/vegetables/audio/potato.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/potato.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Sweet Potato",
+    "desc": "",
+    "img_url": "/assets/vegetables/sweetpotato.png",
+    "audio_url": "/assets/vegetables/audio/sweetpotato.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/sweetpotato.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Eggplant",
+    "desc": "",
+    "img_url": "/assets/vegetables/eggplant.png",
+    "audio_url": "/assets/vegetables/audio/eggplant.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/eggplant.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Beetroot",
+    "desc": "",
+    "img_url": "/assets/vegetables/beetroot.png",
+    "audio_url": "/assets/vegetables/audio/beetroot.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/beetroot.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Broccoli",
+    "desc": "",
+    "img_url": "/assets/vegetables/broccoli.png",
+    "audio_url": "/assets/vegetables/audio/broccoli.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/broccoli.mp3",
+    "colour": "tomato"
+  },
+  {
+    "name": "Radish",
+    "desc": "",
+    "img_url": "/assets/vegetables/radish.png",
+    "audio_url": "/assets/vegetables/audio/radish.mp3",
+    "audio_desc_url": "/assets/vegetables/audio/radish.mp3",
+    "colour": "tomato"
+  }
+],
+"colours":[
+  {
+    "name": "Red",
+    "desc": "Strawberry",
+    "img_url": "/assets/colours/red.png",
+    "audio_url": "/assets/colours/audio/red.mp3",
+    "audio_desc_url": "/assets/colours/audio/red.mp3",
+    "colour": "red"
+  },
+  {
+    "name": "Blue",
+    "desc": "Butterfly",
+    "img_url": "/assets/colours/blue.png",
+    "audio_url": "/assets/colours/audio/blue.mp3",
+    "audio_desc_url": "/assets/colours/audio/blue.mp3",
+    "colour": "blue"
+  },
+  {
+    "name": "Yellow",
+    "desc": "Sunflower",
+    "img_url": "/assets/colours/yellow.png",
+    "audio_url": "/assets/colours/audio/yellow.mp3",
+    "audio_desc_url": "/assets/colours/audio/yellow.mp3",
+    "colour": "yellow"
+  },
+  {
+    "name": "Violet",
+    "desc": "Eggplant",
+    "img_url": "/assets/colours/violet.png",
+    "audio_url": "/assets/colours/audio/violet.mp3",
+    "audio_desc_url": "/assets/colours/audio/violet.mp3",
+    "colour": "violet"
+  },
+  {
+    "name": "Pink",
+    "desc": "Rose",
+    "img_url": "/assets/colours/pink.png",
+    "audio_url": "/assets/colours/audio/pink.mp3",
+    "audio_desc_url": "/assets/colours/audio/pink.mp3",
+    "colour": "pink"
+  },
+  {
+    "name": "Black",
+    "desc": "Black board",
+    "img_url": "/assets/colours/black.png",
+    "audio_url": "/assets/colours/audio/black.mp3",
+    "audio_desc_url": "/assets/colours/audio/black.mp3",
+    "colour": "black"
+  },
+  {
+    "name": "Orange",
+    "desc": "Orange",
+    "img_url": "/assets/colours/orange.png",
+    "audio_url": "/assets/colours/audio/orange.mp3",
+    "audio_desc_url": "/assets/colours/audio/orange.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Green",
+    "desc": "Broccoli",
+    "img_url": "/assets/colours/green.png",
+    "audio_url": "/assets/colours/audio/green.mp3",
+    "audio_desc_url": "/assets/colours/audio/green.mp3",
+    "colour": "green"
+  },
+  {
+    "name": "Grey",
+    "desc": "Elephant",
+    "img_url": "/assets/colours/grey.png",
+    "audio_url": "/assets/colours/audio/grey.mp3",
+    "audio_desc_url": "/assets/colours/audio/grey.mp3",
+    "colour": "grey"
+  },
+  {
+    "name": "White",
+    "desc": "Milk",
+    "img_url": "/assets/colours/white.png",
+    "audio_url": "/assets/colours/audio/white.mp3",
+    "audio_desc_url": "/assets/colours/audio/white.mp3",
+    "colour": "black"
+  },
+  {
+    "name": "Brown",
+    "desc": "Chocolate",
+    "img_url": "/assets/colours/brown.png",
+    "audio_url": "/assets/colours/audio/brown.mp3",
+    "audio_desc_url": "/assets/colours/audio/brown.mp3",
+    "colour": "brown"
+  }
+],
+"farm":[
+  {
+    "name": "Cow",
+    "desc": "",
+    "img_url": "/assets/farm/cow.png",
+    "audio_url": "/assets/farm/audio/cow.mp3",
+    "audio_desc_url": "/assets/farm/audio/cow.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Bull",
+    "desc": "",
+    "img_url": "/assets/farm/bull.png",
+    "audio_url": "/assets/farm/audio/bull.mp3",
+    "audio_desc_url": "/assets/farm/audio/bull.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Goat",
+    "desc": "",
+    "img_url": "/assets/farm/goat.png",
+    "audio_url": "/assets/farm/audio/goat.mp3",
+    "audio_desc_url": "/assets/farm/audio/goat.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Sheep",
+    "desc": "",
+    "img_url": "/assets/farm/sheep.png",
+    "audio_url": "/assets/farm/audio/sheep.mp3",
+    "audio_desc_url": "/assets/farm/audio/sheep.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Horse",
+    "desc": "",
+    "img_url": "/assets/farm/horse.png",
+    "audio_url": "/assets/farm/audio/horse.mp3",
+    "audio_desc_url": "/assets/farm/audio/horse.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Camel",
+    "desc": "",
+    "img_url": "/assets/farm/camel.png",
+    "audio_url": "/assets/farm/audio/camel.mp3",
+    "audio_desc_url": "/assets/farm/audio/camel.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Llama",
+    "desc": "",
+    "img_url": "/assets/farm/llama.png",
+    "audio_url": "/assets/farm/audio/llama.mp3",
+    "audio_desc_url": "/assets/farm/audio/llama.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Yak",
+    "desc": "",
+    "img_url": "/assets/farm/yak.png",
+    "audio_url": "/assets/farm/audio/yak.mp3",
+    "audio_desc_url": "/assets/farm/audio/yak.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Donkey",
+    "desc": "",
+    "img_url": "/assets/farm/donkey.png",
+    "audio_url": "/assets/farm/audio/donkey.mp3",
+    "audio_desc_url": "/assets/farm/audio/donkey.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Rooster",
+    "desc": "",
+    "img_url": "/assets/farm/rooster.png",
+    "audio_url": "/assets/farm/audio/rooster.mp3",
+    "audio_desc_url": "/assets/farm/audio/rooster.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Duck",
+    "desc": "",
+    "img_url": "/assets/farm/duck.png",
+    "audio_url": "/assets/farm/audio/duck.mp3",
+    "audio_desc_url": "/assets/farm/audio/duck.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Goose",
+    "desc": "",
+    "img_url": "/assets/farm/goose.png",
+    "audio_url": "/assets/farm/audio/goose.mp3",
+    "audio_desc_url": "/assets/farm/audio/goose.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Hen",
+    "desc": "",
+    "img_url": "/assets/farm/hen.png",
+    "audio_url": "/assets/farm/audio/hen.mp3",
+    "audio_desc_url": "/assets/farm/audio/hen.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Turkey",
+    "desc": "",
+    "img_url": "/assets/farm/turkey.png",
+    "audio_url": "/assets/farm/audio/turkey.mp3",
+    "audio_desc_url": "/assets/farm/audio/turkey.mp3",
+    "colour": "orange"
+  }
+],
+"birds":[
+  {
+    "name": "Duck",
+    "desc": "",
+    "img_url": "/assets/farm/duck.png",
+    "audio_url": "/assets/birds/audio/duck.mp3",
+    "audio_desc_url": "/assets/birds/audio/duck.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Goose",
+    "desc": "",
+    "img_url": "/assets/farm/goose.png",
+    "audio_url": "/assets/birds/audio/goose.mp3",
+    "audio_desc_url": "/assets/birds/audio/goose.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Turkey",
+    "desc": "",
+    "img_url": "/assets/farm/turkey.png",
+    "audio_url": "/assets/birds/audio/turkey.mp3",
+    "audio_desc_url": "/assets/birds/audio/turkey.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Hen",
+    "desc": "",
+    "img_url": "/assets/farm/hen.png",
+    "audio_url": "/assets/birds/audio/hen.mp3",
+    "audio_desc_url": "/assets/birds/audio/hen.mp3",
+    "colour": "orange"
+  },
+  
+  {
+    "name": "Parrot",
+    "desc": "",
+    "img_url": "/assets/parrot.png",
+    "audio_url": "/assets/birds/audio/parrot.mp3",
+    "audio_desc_url": "/assets/birds/audio/parrot.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Peacock",
+    "desc": "",
+    "img_url": "/assets/birds/peacock.png",
+    "audio_url": "/assets/birds/audio/peacock.mp3",
+    "audio_desc_url": "/assets/birds/audio/peacock.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Owl",
+    "desc": "",
+    "img_url": "/assets/birds/owl.png",
+    "audio_url": "/assets/birds/audio/owl.mp3",
+    "audio_desc_url": "/assets/birds/audio/owl.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Crow",
+    "desc": "",
+    "img_url": "/assets/birds/crow.png",
+    "audio_url": "/assets/birds/audio/crow.mp3",
+    "audio_desc_url": "/assets/birds/audio/crow.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Sparrow",
+    "desc": "",
+    "img_url": "/assets/birds/sparrow.png",
+    "audio_url": "/assets/birds/audio/sparrow.mp3",
+    "audio_desc_url": "/assets/birds/audio/sparrow.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Pigeon",
+    "desc": "",
+    "img_url": "/assets/birds/pigeon.png",
+    "audio_url": "/assets/birds/audio/pigeon.mp3",
+    "audio_desc_url": "/assets/birds/audio/pigeon.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Swan",
+    "desc": "",
+    "img_url": "/assets/birds/swan.png",
+    "audio_url": "/assets/birds/audio/swan.mp3",
+    "audio_desc_url": "/assets/birds/audio/swan.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Penguin",
+    "desc": "",
+    "img_url": "/assets/birds/penguin.png",
+    "audio_url": "/assets/birds/audio/penguin.mp3",
+    "audio_desc_url": "/assets/birds/audio/penguin.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Woodpecker",
+    "desc": "",
+    "img_url": "/assets/birds/woodpecker.png",
+    "audio_url": "/assets/birds/audio/woodpecker.mp3",
+    "audio_desc_url": "/assets/birds/audio/woodpecker.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Kingfisher",
+    "desc": "",
+    "img_url": "/assets/birds/kingfisher.png",
+    "audio_url": "/assets/birds/audio/kingfisher.mp3",
+    "audio_desc_url": "/assets/birds/audio/kingfisher.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Robin",
+    "desc": "",
+    "img_url": "/assets/birds/robin.png",
+    "audio_url": "/assets/birds/audio/robin.mp3",
+    "audio_desc_url": "/assets/birds/audio/robin.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Hummingbird",
+    "desc": "",
+    "img_url": "/assets/birds/hummingbird.png",
+    "audio_url": "/assets/birds/audio/hummingbird.mp3",
+    "audio_desc_url": "/assets/birds/audio/hummingbird.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Hornbill",
+    "desc": "",
+    "img_url": "/assets/birds/hornbill.png",
+    "audio_url": "/assets/birds/audio/hornbill.mp3",
+    "audio_desc_url": "/assets/birds/audio/hornbill.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Toucan",
+    "desc": "",
+    "img_url": "/assets/birds/toucan.png",
+    "audio_url": "/assets/birds/audio/toucan.mp3",
+    "audio_desc_url": "/assets/birds/audio/toucan.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Eagle",
+    "desc": "",
+    "img_url": "/assets/birds/eagle.png",
+    "audio_url": "/assets/birds/audio/eagle.mp3",
+    "audio_desc_url": "/assets/birds/audio/eagle.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Vulture",
+    "desc": "",
+    "img_url": "/assets/birds/vulture.png",
+    "audio_url": "/assets/birds/audio/vulture.mp3",
+    "audio_desc_url": "/assets/birds/audio/vulture.mp3",
+    "colour": "orange"
+  }
+  
+],
+"wild":[
+  {
+    "name": "Lion",
+    "desc": "",
+    "img_url": "/assets/lion.png",
+    "audio_url": "/assets/wild/audio/lion.mp3",
+    "audio_desc_url": "/assets/wild/audio/lion.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Rhinoceros",
+    "desc": "",
+    "img_url": "/assets/wild/rhino.png",
+    "audio_url": "/assets/wild/audio/rhinoceros.mp3",
+    "audio_desc_url": "/assets/wild/audio/rhinoceros.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Hippopotamus",
+    "desc": "",
+    "img_url": "/assets/wild/hippo.png",
+    "audio_url": "/assets/wild/audio/hippopotamus.mp3",
+    "audio_desc_url": "/assets/wild/audio/hippopotamus.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Leopard",
+    "desc": "",
+    "img_url": "/assets/wild/leopard.png",
+    "audio_url": "/assets/wild/audio/leopard.mp3",
+    "audio_desc_url": "/assets/wild/audio/leopard.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Crocodile",
+    "desc": "",
+    "img_url": "/assets/wild/crocodile.png",
+    "audio_url": "/assets/wild/audio/crocodile.mp3",
+    "audio_desc_url": "/assets/wild/audio/crocodile.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Wolf",
+    "desc": "",
+    "img_url": "/assets/wild/wolf.png",
+    "audio_url": "/assets/wild/audio/wolf.mp3",
+    "audio_desc_url": "/assets/wild/audio/wolf.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Fox",
+    "desc": "",
+    "img_url": "/assets/wild/fox.png",
+    "audio_url": "/assets/wild/audio/fox.mp3",
+    "audio_desc_url": "/assets/wild/audio/fox.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Bear",
+    "desc": "",
+    "img_url": "/assets/wild/bear.png",
+    "audio_url": "/assets/wild/audio/bear.mp3",
+    "audio_desc_url": "/assets/wild/audio/bear.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Polar Bear",
+    "desc": "",
+    "img_url": "/assets/wild/polar.png",
+    "audio_url": "/assets/wild/audio/polar.mp3",
+    "audio_desc_url": "/assets/wild/audio/polar.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Tiger",
+    "desc": "",
+    "img_url": "/assets/tiger.png",
+    "audio_url": "/assets/wild/audio/tiger.mp3",
+    "audio_desc_url": "/assets/wild/audio/tiger.mp3",
+    "colour": "orange"
+  }
+]
+}
