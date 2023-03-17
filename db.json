@@ -2,209 +2,183 @@
   {
     "name": "Aa",
     "desc": "Apple",
-    "img_url": "/assets/apple.png",
-    "audio_url": "/assets/media/a.mp3",
-    "audio_desc_url": "/assets/media/a_desc.mp3",
+    "img_url": "apple.png",
+    "audio_desc_url": "a_desc.mp3",
     "colour": "tomato"
   },
   {
     "name": "Bb",
     "desc": "Ball",
-    "img_url": "/assets/ball.png",
-    "audio_url": "/assets/media/b.mp3",
-    "audio_desc_url": "/assets/media/b_desc.mp3",
+    "img_url": "ball.png",
+    "audio_desc_url": "b_desc.mp3",
     "colour": "CornflowerBlue"
   },
   {
     "name": "Cc",
     "desc": "Cat",
-    "img_url": "/assets/cat.png",
-    "audio_url": "/assets/media/c.mp3",
-    "audio_desc_url": "/assets/media/c_desc.mp3",
+    "img_url": "cat.png",
+    "audio_desc_url": "c_desc.mp3",
     "colour": "MediumSeaGreen"
   },
   {
     "name": "Dd",
     "desc": "Dog",
-    "img_url": "/assets/dog.png",
-    "audio_url": "/assets/media/d.mp3",
-    "audio_desc_url": "/assets/media/d_desc.mp3",
+    "img_url": "dog.png",
+    "audio_desc_url": "d_desc.mp3",
     "colour": "Gold"
   },
   {
     "name": "Ee",
     "desc": "Elephant",
-    "img_url": "/assets/elephant.png",
-    "audio_url": "/assets/media/e.mp3",
-    "audio_desc_url": "/assets/media/e_desc.mp3",
+    "img_url": "elephant.png",
+    "audio_desc_url": "e_desc.mp3",
     "colour": "DarkViolet "
   },
   {
     "name": "Ff",
     "desc": "Fish",
-    "img_url": "/assets/fish.png",
-    "audio_url": "/assets/media/f.mp3",
-    "audio_desc_url": "/assets/media/f_desc.mp3",
+    "img_url": "fish.png",
+    "audio_desc_url": "f_desc.mp3",
     "colour": "Coral"
   },
   {
     "name": "Gg",
     "desc": "Girrafe",
-    "img_url": "/assets/girrafe.png",
-    "audio_url": "/assets/media/g.mp3",
-    "audio_desc_url": "/assets/media/g_desc.mp3",
+    "img_url": "girrafe.png",
+    "audio_desc_url": "g_desc.mp3",
     "colour": "YellowGreen "
   },
   {
     "name": "Hh",
     "desc": "Hat",
-    "img_url": "/assets/hat.png",
-    "audio_url": "/assets/media/h.mp3",
-    "audio_desc_url": "/assets/media/h_desc.mp3",
+    "img_url": "hat.png",
+    "audio_desc_url": "h_desc.mp3",
     "colour": "SlateBlue "
   },
   {
     "name": "Ii",
     "desc": "Ice Cream",
-    "img_url": "/assets/icecream.png",
-    "audio_url": "/assets/media/i.mp3",
-    "audio_desc_url": "/assets/media/i_desc.mp3",
+    "img_url": "icecream.png",
+    "audio_desc_url": "i_desc.mp3",
     "colour": "HotPink"
   },
   {
     "name": "Jj",
     "desc": "Juice",
-    "img_url": "/assets/juice.png",
-    "audio_url": "/assets/media/j.mp3",
-    "audio_desc_url": "/assets/media/j_desc.mp3",
+    "img_url": "juice.png",
+    "audio_desc_url": "j_desc.mp3",
     "colour": "DarkCyan "
   },
   {
     "name": "Kk",
     "desc": "Kite",
-    "img_url": "/assets/kite.png",
-    "audio_url": "/assets/media/k.mp3",
-    "audio_desc_url": "/assets/media/k_desc.mp3",
+    "img_url": "kite.png",
+    "audio_desc_url": "k_desc.mp3",
     "colour": "Coral "
   },
   {
     "name": "Ll",
     "desc": "Lion",
-    "img_url": "/assets/lion.png",
-    "audio_url": "/assets/media/l.mp3",
-    "audio_desc_url": "/assets/media/l_desc.mp3",
+    "img_url": "lion.png",
+    "audio_desc_url": "l_desc.mp3",
     "colour": "CornflowerBlue "
   },
   {
     "name": "Mm",
     "desc": "Monkey",
-    "img_url": "/assets/monkey.png",
-    "audio_url": "/assets/media/m.mp3",
-    "audio_desc_url": "/assets/media/m_desc.mp3",
+    "img_url": "monkey.png",
+    "audio_desc_url": "m_desc.mp3",
     "colour": "Crimson "
   },
   {
     "name": "Nn",
     "desc": "Net",
-    "img_url": "/assets/net.png",
-    "audio_url": "/assets/media/n.mp3",
-    "audio_desc_url": "/assets/media/n_desc.mp3",
+    "img_url": "net.png",
+    "audio_desc_url": "n_desc.mp3",
     "colour": "DarkViolet "
   },
   {
     "name": "Oo",
     "desc": "Orange",
-    "img_url": "/assets/orange.png",
-    "audio_url": "/assets/media/o.mp3",
-    "audio_desc_url": "/assets/media/o_desc.mp3",
+    "img_url": "orange.png",
+    "audio_desc_url": "o_desc.mp3",
     "colour": "tomato "
   },
   {
     "name": "Pp",
     "desc": "Parrot",
-    "img_url": "/assets/parrot.png",
-    "audio_url": "/assets/media/p.mp3",
-    "audio_desc_url": "/assets/media/p_desc.mp3",
+    "img_url": "parrot.png",
+    "audio_desc_url": "p_desc.mp3",
     "colour": "DarkCyan "
   },
   {
     "name": "Qq",
     "desc": "Quilt",
-    "img_url": "/assets/quilt.png",
-    "audio_url": "/assets/media/q.mp3",
-    "audio_desc_url": "/assets/media/q_desc.mp3",
+    "img_url": "quilt.png",
+    "audio_desc_url": "q_desc.mp3",
     "colour": "HotPink "
   },
   {
     "name": "Rr",
     "desc": "Rabbit",
-    "img_url": "/assets/rabbit.png",
-    "audio_url": "/assets/media/r.mp3",
-    "audio_desc_url": "/assets/media/r_desc.mp3",
+    "img_url": "rabbit.png",
+    "audio_desc_url": "r_desc.mp3",
     "colour": "SlateBlue "
   },
   {
     "name": "Ss",
     "desc": "Sun",
-    "img_url": "/assets/sun.png",
-    "audio_url": "/assets/media/s.mp3",
-    "audio_desc_url": "/assets/media/s_desc.mp3",
+    "img_url": "sun.png",
+    "audio_desc_url": "s_desc.mp3",
     "colour": "YellowGreen "
   },
   {
     "name": "Tt",
     "desc": "Tiger",
-    "img_url": "/assets/tiger.png",
-    "audio_url": "/assets/media/t.mp3",
-    "audio_desc_url": "/assets/media/t_desc.mp3",
+    "img_url": "tiger.png",
+    "audio_desc_url": "t_desc.mp3",
     "colour": "Coral "
   },
   {
     "name": "Uu",
     "desc": "Umbrella",
-    "img_url": "/assets/umbrella.png",
-    "audio_url": "/assets/media/u.mp3",
-    "audio_desc_url": "/assets/media/u_desc.mp3",
+    "img_url": "umbrella.png",
+    "audio_desc_url": "u_desc.mp3",
     "colour": "Crimson "
   },
   {
     "name": "Vv",
     "desc": "Van",
-    "img_url": "/assets/van.png",
-    "audio_url": "/assets/media/v.mp3",
-    "audio_desc_url": "/assets/media/v_desc.mp3",
+    "img_url": "van.png",
+    "audio_desc_url": "v_desc.mp3",
     "colour": "DarkViolet "
   },
   {
     "name": "Ww",
     "desc": "Wool",
-    "img_url": "/assets/wool.png",
-    "audio_url": "/assets/media/w.mp3",
-    "audio_desc_url": "/assets/media/w_desc.mp3",
+    "img_url": "wool.png",
+    "audio_desc_url": "w_desc.mp3",
     "colour": "Gold "
   },
   {
     "name": "Xx",
     "desc": "Xmas Tree",
-    "img_url": "/assets/xmas.png",
-    "audio_url": "/assets/media/x.mp3",
-    "audio_desc_url": "/assets/media/x_desc.mp3",
+    "img_url": "xmas.png",
+    "audio_desc_url": "x_desc.mp3",
     "colour": "MediumSeaGreen "
   },
   {
     "name": "Yy",
     "desc": "Yak",
-    "img_url": "/assets/yak.png",
-    "audio_url": "/assets/media/y.mp3",
-    "audio_desc_url": "/assets/media/y_desc.mp3",
+    "img_url": "yak.png",
+    "audio_desc_url": "y_desc.mp3",
     "colour": "CornflowerBlue "
   },
   {
     "name": "Zz",
     "desc": "Zebra",
-    "img_url": "/assets/zebra.png",
-    "audio_url": "/assets/media/z.mp3",
-    "audio_desc_url": "/assets/media/z_desc.mp3",
+    "img_url": "zebra.png",
+    "audio_desc_url": "z_desc.mp3",
     "colour": "tomato "
   }
 ],
@@ -212,156 +186,221 @@
   {
     "name": "1",
     "desc": "ONE",
-    "img_url": "/assets/numbers/one.png",
-    "audio_url": "/assets/numbers/audio/1.mp3",
-    "audio_desc_url": "/assets/numbers/audio/1.mp3",
+    "img_url": "one.png",
+    "audio_desc_url": "1.mp3",
     "colour": "tomato"
   },
   {
       "name": "2",
       "desc": "TWO",
-      "img_url": "/assets/numbers/two.png",
-      "audio_url": "/assets/numbers/audio/2.mp3",
-      "audio_desc_url": "/assets/numbers/audio/2.mp3",
+      "img_url": "two.png",
+      "audio_desc_url": "2.mp3",
       "colour": "tomato"
     },
     {
       "name": "3",
       "desc": "THREE",
-      "img_url": "/assets/numbers/three.png",
-      "audio_url": "/assets/numbers/audio/3.mp3",
-      "audio_desc_url": "/assets/numbers/audio/3.mp3",
+      "img_url": "three.png",
+      "audio_desc_url": "3.mp3",
       "colour": "tomato"
     },
     {
       "name": "4",
       "desc": "FOUR",
-      "img_url": "/assets/numbers/four.png",
-      "audio_url": "/assets/numbers/audio/4.mp3",
-      "audio_desc_url": "/assets/numbers/audio/4.mp3",
+      "img_url": "four.png",
+      "audio_desc_url": "4.mp3",
       "colour": "tomato"
     },
     {
       "name": "5",
       "desc": "FIVE",
-      "img_url": "/assets/numbers/five.png",
-      "audio_url": "/assets/numbers/audio/5.mp3",
-      "audio_desc_url": "/assets/numbers/audio/5.mp3",
+      "img_url": "five.png",
+      "audio_desc_url": "5.mp3",
       "colour": "tomato"
     },
     {
       "name": "6",
       "desc": "SIX",
-      "img_url": "/assets/numbers/six.png",
-      "audio_url": "/assets/numbers/audio/6.mp3",
-      "audio_desc_url": "/assets/numbers/audio/6.mp3",
+      "img_url": "six.png",
+      "audio_desc_url": "6.mp3",
       "colour": "tomato"
     },
     {
       "name": "7",
       "desc": "SEVEN",
-      "img_url": "/assets/numbers/seven.png",
-      "audio_url": "/assets/numbers/audio/7.mp3",
-      "audio_desc_url": "/assets/numbers/audio/7.mp3",
+      "img_url": "seven.png",
+      "audio_desc_url": "7.mp3",
       "colour": "tomato"
     },
     {
       "name": "8",
       "desc": "EIGHT",
-      "img_url": "/assets/numbers/eight.png",
-      "audio_url": "/assets/numbers/audio/8.mp3",
-      "audio_desc_url": "/assets/numbers/audio/8.mp3",
+      "img_url": "eight.png",
+      "audio_desc_url": "8.mp3",
       "colour": "tomato"
     },
     {
       "name": "9",
       "desc": "NINE",
-      "img_url": "/assets/numbers/nine.png",
-      "audio_url": "/assets/numbers/audio/9.mp3",
-      "audio_desc_url": "/assets/numbers/audio/9.mp3",
+      "img_url": "nine.png",
+      "audio_desc_url": "9.mp3",
       "colour": "tomato"
     },
     {
       "name": "10",
       "desc": "TEN",
-      "img_url": "/assets/numbers/ten.png",
-      "audio_url": "/assets/numbers/audio/10.mp3",
-      "audio_desc_url": "/assets/numbers/audio/10.mp3",
+      "img_url": "ten.png",
+      "audio_desc_url": "10.mp3",
       "colour": "tomato"
     },
     {
       "name": "11",
       "desc": "ELEVEN",
-      "img_url": "/assets/numbers/eleven.png",
-      "audio_url": "/assets/numbers/audio/11.mp3",
-      "audio_desc_url": "/assets/numbers/audio/11.mp3",
+      "img_url": "eleven.png",
+      "audio_desc_url": "11.mp3",
       "colour": "tomato"
     },
     {
       "name": "12",
       "desc": "TWELVE",
-      "img_url": "/assets/numbers/twelve.png",
-      "audio_url": "/assets/numbers/audio/12.mp3",
-      "audio_desc_url": "/assets/numbers/audio/12.mp3",
+      "img_url": "twelve.png",
+      "audio_desc_url": "12.mp3",
       "colour": "tomato"
     },
     {
       "name": "13",
       "desc": "THIRTEEN",
-      "img_url": "/assets/numbers/thirteen.png",
-      "audio_url": "/assets/numbers/audio/13.mp3",
-      "audio_desc_url": "/assets/numbers/audio/13.mp3",
+      "img_url": "thirteen.png",
+      "audio_desc_url": "13.mp3",
       "colour": "tomato"
     },
     {
       "name": "14",
       "desc": "FOURTEEN",
-      "img_url": "/assets/numbers/fourteen.png",
-      "audio_url": "/assets/numbers/audio/14.mp3",
-      "audio_desc_url": "/assets/numbers/audio/14.mp3",
+      "img_url": "fourteen.png",
+      "audio_desc_url": "14.mp3",
       "colour": "tomato"
     },
     {
       "name": "15",
       "desc": "FIFTEEN",
-      "img_url": "/assets/numbers/fifteen.png",
-      "audio_url": "/assets/numbers/audio/15.mp3",
-      "audio_desc_url": "/assets/numbers/audio/15.mp3",
+      "img_url": "fifteen.png",
+      "audio_desc_url": "15.mp3",
       "colour": "tomato"
     },
     {
       "name": "16",
       "desc": "SIXTEEN",
-      "img_url": "/assets/numbers/sixteen.png",
-      "audio_desc_url": "/assets/numbers/audio/16.mp3",
+      "img_url": "sixteen.png",
+      "audio_desc_url": "16.mp3",
       "colour": "tomato"
     },
     {
       "name": "17",
       "desc": "SEVENTEEN",
-      "img_url": "/assets/numbers/seventeen.png",
-      "audio_desc_url": "/assets/numbers/audio/17.mp3",
+      "img_url": "seventeen.png",
+      "audio_desc_url": "17.mp3",
       "colour": "tomato"
     },
     {
       "name": "18",
       "desc": "EIGHTEEN",
-      "img_url": "/assets/numbers/eighteen.png",
-      "audio_desc_url": "/assets/numbers/audio/18.mp3",
+      "img_url": "eighteen.png",
+      "audio_desc_url": "18.mp3",
       "colour": "tomato"
     },
     {
       "name": "19",
       "desc": "NINETEEN",
-      "img_url": "/assets/numbers/nineteen.png",
-      "audio_desc_url": "/assets/numbers/audio/19.mp3",
+      "img_url": "nineteen.png",
+      "audio_desc_url": "19.mp3",
       "colour": "tomato"
     },
     {
       "name": "20",
       "desc": "TWENTY",
-      "img_url": "/assets/numbers/twenty.png",
-      "audio_desc_url": "/assets/numbers/audio/20.mp3",
+      "img_url": "twenty.png",
+      "audio_desc_url": "20.mp3",
       "colour": "tomato"
     }
-]}
+],
+"colours":[
+  {
+    "name": "Red",
+    "desc": "Strawberry",
+    "img_url": "red.png",
+    "audio_desc_url": "red.mp3",
+    "colour": "red"
+  },
+  {
+    "name": "Blue",
+    "desc": "Butterfly",
+    "img_url": "blue.png",
+    "audio_desc_url": "blue.mp3",
+    "colour": "blue"
+  },
+  {
+    "name": "Yellow",
+    "desc": "Sunflower",
+    "img_url": "yellow.png",
+    "audio_desc_url": "yellow.mp3",
+    "colour": "yellow"
+  },
+  {
+    "name": "Violet",
+    "desc": "Eggplant",
+    "img_url": "violet.png",
+    "audio_desc_url": "violet.mp3",
+    "colour": "violet"
+  },
+  {
+    "name": "Pink",
+    "desc": "Rose",
+    "img_url": "/assets/colours/pink.png",
+    "audio_desc_url": "pink.mp3",
+    "colour": "pink"
+  },
+  {
+    "name": "Black",
+    "desc": "Black board",
+    "img_url": "black.png",
+    "audio_desc_url": "black.mp3",
+    "colour": "black"
+  },
+  {
+    "name": "Orange",
+    "desc": "Orange",
+    "img_url": "orange.png",
+    "audio_desc_url": "orange.mp3",
+    "colour": "orange"
+  },
+  {
+    "name": "Green",
+    "desc": "Broccoli",
+    "img_url": "green.png",
+    "audio_desc_url": "green.mp3",
+    "colour": "green"
+  },
+  {
+    "name": "Grey",
+    "desc": "Elephant",
+    "img_url": "grey.png",
+    "audio_desc_url": "grey.mp3",
+    "colour": "grey"
+  },
+  {
+    "name": "White",
+    "desc": "Milk",
+    "img_url": "white.png",
+    "audio_desc_url": "white.mp3",
+    "colour": "black"
+  },
+  {
+    "name": "Brown",
+    "desc": "Chocolate",
+    "img_url": "brown.png",
+    "audio_desc_url": "brown.mp3",
+    "colour": "brown"
+  }
+]
+}
