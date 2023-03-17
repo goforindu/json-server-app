@@ -356,7 +356,7 @@
   {
     "name": "Pink",
     "desc": "Rose",
-    "img_url": "/assets/colours/pink.png",
+    "img_url": "pink.png",
     "audio_desc_url": "pink.mp3",
     "colour": "pink"
   },
